@@ -1,0 +1,61 @@
+ToDo:
+
+- Collect all necessary Data /
+    - Remove unnecessary data and format remaining data 
+    - Compile data into one file for each catagory
+
+- Store pokemon (pickle for storage)
+    - Local party storage (should be like the main storage but smaller)
+    - Transfer between main and party storage 
+
+- Set up abilty to generate pokemon
+    - Base stats /
+    - IVs, EVs, nature /
+    - Add typing (as in Grass/Fire/Water etc, not on a keyboard) /
+    - Calculate Adjusted stats/
+    - Assigned moves / 
+    - Make sure can only learn 'allowed' moves / 
+
+- Assign Information to moves
+    - Basic Information, e.g PP, Power
+    - Caused Effects
+
+- Can capture pokemon
+    - Random chance
+    - Higher Levels are more difficult
+    
+- Pokemon growth/change
+    - Gain Experience/
+    - Level up/
+    - Evolve/
+    - Replace old moves
+
+- Add battling
+    - Can attack
+    - Turns
+    - Victory/Defeat conditions
+    - switch out pokemon
+
+- Add random events 
+    - Wild pokemon
+    - Add trainers 
+
+
+- Add Money 
+- Add Items
+- Add shop
+
+
+- Mohit Chatbot:
+    - Make yes_or_no function better
+    - Autocorrect
+    - Checking user input for matching words
+    - Check all and only required information given
+    - Prompt for unnecessary information and clarification
+    
+    - Accquire context from connective words (maybe)
+
+
+- Maybe add discord functionality, if time allows
+
+
